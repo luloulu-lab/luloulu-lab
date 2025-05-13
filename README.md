@@ -21,4 +21,10 @@ Tenho experiência em **prototipação** e **criação de interfaces** no **Figm
 ## 🌱 O que estou buscando
 Busco expandir meus conhecimentos em Desenvolvimento Front-End, adquirindo experiência prática onde eu possa aplicar e melhorar tanto minhas habilidades de design quanto de programação.
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luloulu-lab/luloulu-lab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luloulu-lab/luloulu-lab/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/luloulu-lab/output/github-contribution-grid-snake.svg">
+</picture>
+
 
