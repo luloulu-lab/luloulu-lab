@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Luana Miranda! 👋
 
-<!--
-**luloulu-lab/luloulu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Sobre mim
+Sou **Designer gráfico**, com experiência em **UI/UX Design**, atualmente em transição para a área de **desenvolvimento front-end**. Durante minha carreira, aprendi a criar soluções visuais e funcionais, e agora estou cursando o primeiro semestre de **Análise e Desenvolvimento de Sistemas**.
 
-Here are some ideas to get you started:
+Tenho experiência em **prototipação** e **criação de interfaces** no **Figma**, e estou expandindo meus conhecimentos para programação para unir design e desenvolvimento em meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou aprendendo
+- **HTML** | **CSS** | **JavaScript**
+- **Frameworks** como React e Vue.js
+- **Design Responsivo**
+- **Prototipação no Figma**
+
+## 💻 Tecnologias e Ferramentas que uso
+
+- **Figma** (Prototipação e UI/UX Design)
+- **HTML** | **CSS** | **JavaScript** (Atualmente estudando)
+- **VS Code** (Editor de código)
+- **Git** | **GitHub** (Controle de versão e repositórios)
+
+## 🌱 O que estou buscando
+Busco expandir meus conhecimentos em Desenvolvimento Front-End, adquirindo experiência prática onde eu possa aplicar e melhorar tanto minhas habilidades de design quanto de programação.
+
+
