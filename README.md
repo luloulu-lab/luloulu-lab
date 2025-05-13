@@ -6,7 +6,7 @@
 
 ## ✨ Sobre mim
 
-- <p>🎨 <i>Designer multidisciplinar</i> com experiência em UI/UX Design</p>
+- <p>🎨 <i>Designer multidisciplinar</i> com experiência em UI/UX Design.</p>
 - <p>🚀 Transição para o desenvolvimento Front-End, unindo design e programação.</p>
 - <p>💻 Criação de soluções visuais e funcionais ao longo da carreira.</p>
 - <p>🖥️ Prototipação e interfaces no Figma.</p>
