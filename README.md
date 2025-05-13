@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!%F0%9F%91%8B+I'm+Luana.;Nice+to+meet+you." alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=2000&pause=1000&color=9CCFD8&center=true&vCenter=true&width=635&height=100&lines=Oi%C3%AA!%F0%9F%91%8B%F0%9F%8F%BC+Sou+a+Luana.;%C3%89+um+prazer+t%C3%AA-lo(a)+aqui." alt="Typing SVG" /></a>
 </div>
 
 
 
-## 👩‍💻 Sobre mim
+## ✨ Sobre mim
 
 <p>🎨 <strong>Designer multidisciplinar</strong> com experiência em <strong>UI/UX Design</strong>.</p>
 <p>🚀 <strong>Transição para o desenvolvimento Front-End</strong>, unindo design e programação.</p>
