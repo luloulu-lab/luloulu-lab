@@ -4,20 +4,23 @@
   </a>
 </div>
 
----
+
 
 ## 👩‍💻 Sobre mim
 
-Sou **Designer gráfico**, com experiência em **UI/UX Design**, atualmente em transição para a área de **desenvolvimento front-end**. Durante minha carreira, aprendi a criar soluções visuais e funcionais, e agora estou cursando o primeiro semestre de **Análise e Desenvolvimento de Sistemas**.
-
-Tenho experiência em **prototipação** e **criação de interfaces** no **Figma**, e estou expandindo meus conhecimentos para programação, com o objetivo de unir design e desenvolvimento em meus projetos.
+<p>🎨 <strong>Designer Gráfico</strong> com 6 anos de experiência em <strong>UI/UX Design</strong>.</p>
+<p>🚀 <strong>Transição para o desenvolvimento front-end</strong>, unindo design e programação.</p>
+<p>💻 <strong>Criação de soluções visuais e funcionais</strong> ao longo da carreira.</p>
+<p>🖥️ <strong>Prototipação e interfaces no Figma</strong>.</p>
+<p>📚 <strong>Cursando Análise e Desenvolvimento de Sistemas</strong> (ADS), focada em programação.</p>
+<p>🌱 <strong>Sempre aprendendo</strong> para criar soluções mais completas e impactantes.</p>
 
 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -36,7 +39,6 @@ Tenho experiência em **prototipação** e **criação de interfaces** no **Figm
   </p>
 </div>
 
----
 
 ## 🐍 Contribuições no GitHub
 
