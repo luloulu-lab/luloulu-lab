@@ -6,12 +6,12 @@
 
 ## ✨ Sobre mim
 
-- <p>🎨 <i>Designer multidisciplinar</i> com experiência em UI/UX Design.</p>
-- <p>🚀 Transição para o desenvolvimento Front-End, unindo design e programação.</p>
-- <p>💻 Criação de soluções visuais e funcionais ao longo da carreira.</p>
-- <p>🖥️ Prototipação e interfaces no Figma.</p>
-- <p>📚 Cursando Análise e Desenvolvimento de Sistemas, focada em programação.</p>
-- <p>🌱 Sempre aprendendo.</p>
+<pre>- 💼 <i>Designer multidisciplinar</i> com experiência em UI/UX Design.
+- 🚀 Transição para o desenvolvimento Front-End, unindo design e programação.
+- 💻 Criação de soluções visuais e funcionais ao longo da carreira.
+- 🖥️ Prototipação e interfaces no Figma.
+- 📖 Cursando Análise e Desenvolvimento de Sistemas, focada em programação.
+- 🌱 Sempre aprendendo.</pre>
 
 
 
