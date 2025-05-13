@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-<p>🎨 <strong>Designer Gráfico</strong> com 6 anos de experiência em <strong>UI/UX Design</strong>.</p>
+<p>🎨 <strong>Designer Multidisciplinar</strong> com experiência em <strong>UI/UX Design</strong>.</p>
 <p>🚀 <strong>Transição para o desenvolvimento front-end</strong>, unindo design e programação.</p>
 <p>💻 <strong>Criação de soluções visuais e funcionais</strong> ao longo da carreira.</p>
 <p>🖥️ <strong>Prototipação e interfaces no Figma</strong>.</p>
